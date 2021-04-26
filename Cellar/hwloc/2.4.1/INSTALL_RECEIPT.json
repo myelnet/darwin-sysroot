@@ -1,0 +1,45 @@
+{
+  "homebrew_version": "3.0.2-112-g236c622",
+  "used_options": [
+
+  ],
+  "unused_options": [
+
+  ],
+  "built_as_bottle": true,
+  "poured_from_bottle": true,
+  "installed_as_dependency": false,
+  "installed_on_request": true,
+  "changed_files": [
+    "bin/hwloc-compress-dir",
+    "lib/pkgconfig/hwloc.pc"
+  ],
+  "time": 1619104767,
+  "source_modified_time": 1613033296,
+  "compiler": "clang",
+  "aliases": [
+
+  ],
+  "runtime_dependencies": [
+
+  ],
+  "source": {
+    "spec": "stable",
+    "versions": {
+      "stable": "2.4.1",
+      "head": null,
+      "version_scheme": 0
+    },
+    "path": "/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/hwloc.rb",
+    "tap_git_head": "52b034896fcc9f91a9628171ec849f3ec16196f0",
+    "tap": "homebrew/core"
+  },
+  "arch": "x86_64",
+  "built_on": {
+    "os": "Macintosh",
+    "os_version": "macOS 11.2",
+    "cpu_family": "penryn",
+    "xcode": "12.4",
+    "clt": "12.4.0.0.1.1610135815"
+  }
+}
